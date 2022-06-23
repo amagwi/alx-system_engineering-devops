@@ -1,2 +1,2 @@
 #!/bin/bash
-su newowner
+chown betty hello
