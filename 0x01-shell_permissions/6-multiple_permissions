@@ -1,2 +1,2 @@
 #!/bin/bash
-multipleper
+chmod u+x,g+o,o+x hello
